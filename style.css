@@ -10,10 +10,7 @@ body{
       max-width: 100%;
       height: auto !important;
       }
-    .nav-item:hover{
-        color: red !important;
-        background-color: #ccff00 !important;
-    }
+
     .carousel-item {
         height: 100vh;
         min-height: 350px;
