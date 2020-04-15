@@ -172,18 +172,18 @@ body{
       .social li:nth-child(2) a,
       .social li:nth-child(2):before,
       .social li:nth-child(2):after{
-        background: linear-gradient(45deg,#ff0057,#fff);
-        color: blue;
+        background: #00aced;
+        color: white;
       }
       .social li:nth-child(3) a,
       .social li:nth-child(3):before,
       .social li:nth-child(3):after{
-        background: linear-gradient(45deg,#fff,#4AC959);
-        color:#4AC959;
+        background: #4AC959;
+        color:white;
       }
       .social li:nth-child(4) a,
       .social li:nth-child(4):before,
       .social li:nth-child(4):after{
-        background: linear-gradient(45deg,#fff,#5d02ff);
-        color: blue;
+        background: white;
+        color: #3b5998;
       }
