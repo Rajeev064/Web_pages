@@ -177,7 +177,7 @@ body{
       .social li:nth-child(3) a,
       .social li:nth-child(3):before,
       .social li:nth-child(3):after{
-        background: linear-gradient(45deg,#5d02ff,#4AC959);
+        background: linear-gradient(45deg,#fff,#4AC959);
         color:#4AC959;
       }
       .social li:nth-child(4) a,
